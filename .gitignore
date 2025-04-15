@@ -1,0 +1,10 @@
+# Ignorar entorno virtual
+buscador/venv/
+
+# Ignorar caché de Python
+**/__pycache__/
+*.py[cod]
+
+# Otros comunes
+.env
+.DS_Store
