@@ -1,6 +1,6 @@
 # Ignorar entorno virtual
 buscador/venv/
-
+venv/
 # Ignorar caché de Python
 **/__pycache__/
 *.py[cod]
